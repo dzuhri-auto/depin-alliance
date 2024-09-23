@@ -1,8 +1,11 @@
 # Depin Alliance AUTO
 
-Depin Alliance Telegram Mini App Bot
+Depin Alliance Telegram Mini App Bot Auto
 
 For README in Bahasa Indonesia: [![en](https://img.shields.io/badge/README-id-red.svg)](https://github.com/dzuhri-auto/depin-alliance/blob/master/README.id.md)
+
+> [!WARNING]
+> *DYOR, I am not responsible for your account, For this login type bot please only use telegram account with id below `61xxxxx`, check `@userinfobot` for checking the id. Otherwise the account will got automatically banned !!*.
 
 ## Feature
 
@@ -38,11 +41,6 @@ Obtain API ID and API HASH:
 1. Go to [my.telegram.org](https://my.telegram.org/) and log in using your phone number.
 2. Select `API development tools` and fill out the form to register a new application.
 3. Record the `API_ID` and `API_HASH` provided after registering your application in the .env file.
-  
-### 🚨 Disclaimer 🚨
-
-*Please only use telegram account with id below `61xxxxx`, check `@userinfobot` for checking the id.
-Otherwise the account will got automatically banned !!*
 
 ## Request API KEY
 
@@ -75,7 +73,7 @@ windows\install.bat
 **Mac / Linux / VPS** :
 
 ```shell
-sudo chmod +x ubuntu/install.sh ubuntu/run.sh ubuntu/update.sh
+sudo chmod +x ubuntu/install.sh ubuntu/run.sh
 ```
 
 ```shell

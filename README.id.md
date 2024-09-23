@@ -1,8 +1,11 @@
 # Depin Alliance AUTO
 
-Depin Alliance Telegram Mini App Bot
+Depin Alliance Telegram Mini App Bot Auto
 
 For README in English: [![en](https://img.shields.io/badge/README-en-red.svg)](https://github.com/dzuhri-auto/depin-alliance/blob/master/README.md)
+
+> [!WARNING]
+> *DYOR, Saya tidak bertanggung jawab terhadap akun mu, Khusus untuk bot tipe login ini harap menggunakan akun telegram dengan awalan id dibawah `61xxxxx`, check `@userinfobot` untuk checking awalan id. Jika pakai akun dengan awalan id diatas itu akan otomatis banned !!*.
 
 ## Fitur
 
@@ -39,11 +42,6 @@ Cara Mendapatkan API ID and API HASH:
 2. Pilih menu `API development tools` dan isi form nya untuk mendaftarkan aplikasi baru.
 3. Simpan `API_ID` dan `API_HASH` yang diberikan setelah mendaftarkan aplikasi ke file .env.
 
-### 🚨 Disclaimer 🚨
-
-*Khusus untuk bot tipe login ini harap menggunakan akun telegram dengan awalan id dibawah `61xxxxx`, check `@userinfobot` untuk checking awalan id.
-Jika pakai akun dengan awalan id diatas itu akan otomatis banned !!*
-
 ## Mendapatkan API KEY
 
 Script ini menggunakan kustom API KEY, API KEY nya hanya tersedia untuk disewa.
@@ -75,7 +73,7 @@ windows\install.bat
 **Mac / Linux / VPS** :
 
 ```shell
-sudo chmod +x ubuntu/install.sh ubuntu/run.sh ubuntu/update.sh
+sudo chmod +x ubuntu/install.sh ubuntu/run.sh
 ```
 
 ```shell
