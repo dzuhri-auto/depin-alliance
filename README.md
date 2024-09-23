@@ -122,19 +122,3 @@ windows\run.bat
 ```shell
 ./ubuntu/run.sh
 ```
-
-## Update Bot
-
-For update the bot:
-
-**Windows** :
-
-```shell
-windows\update.bat
-```
-
-**Mac / Linux / VPS** :
-
-```shell
-./ubuntu/update.sh
-```
